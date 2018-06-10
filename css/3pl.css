@@ -1,0 +1,11 @@
+.navbar {
+    min-height: 125px;
+}
+
+.navbar-brand>img {
+    height: 100px;
+}
+
+ul.nav.navbar-right {
+    padding-top: 25px;
+}
